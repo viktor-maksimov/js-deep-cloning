@@ -1,0 +1,5 @@
+# for `yarn lint` development
+coverage
+node_modules
+lib
+tests
